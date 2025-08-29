@@ -238,6 +238,12 @@ Pro tip:
 
 ## Screenshots
 
+### Loading Screen
+![Loading Screen](public/images/loading.png)
+
+### Hero Section
+![Hero Section](public/images/hero.png)
+
 #### Light Mode
 ![Dashboard/Sections (Light)](public/images/projects-light.png)
 
@@ -246,12 +252,6 @@ Pro tip:
 
 ### Reference
 ![Reference](public/images/reference.png)
-
-### Hero Section
-![Hero Section](public/images/hero.png)
-
-### Loading Screen
-![Loading Screen](public/images/loading.png)
 
 Use these as references to maintain or evolve visual polish.
 
