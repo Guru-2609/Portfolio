@@ -238,11 +238,20 @@ Pro tip:
 
 ## Screenshots
 
-- Dashboard/Sections (Light): public/images/projects-light.png
-- Dashboard/Sections (Dark): public/images/projects-dark.png
-- Reference: public/images/reference.png
-- Hero Section: public/images/hero.png
-- Loading Screen: public/images/loading.png
+#### Light Mode
+![Dashboard/Sections (Light)](public/images/projects-light.png)
+
+#### Dark Mode
+![Dashboard/Sections (Dark)](public/images/projects-dark.png)
+
+### Reference
+![Reference](public/images/reference.png)
+
+### Hero Section
+![Hero Section](public/images/hero.png)
+
+### Loading Screen
+![Loading Screen](public/images/loading.png)
 
 Use these as references to maintain or evolve visual polish.
 
